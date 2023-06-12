@@ -35,3 +35,7 @@ build/
 
 ### ENV FILE ###
 .env
+
+# added
+.DS_Store
+.mvn/wrapper/
